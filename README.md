@@ -18,7 +18,7 @@ The site is fully responsive and built with a modern, clean design.
 - JavaScript (basic interactions)
 
 📷 **Screenshot**  
-(Coming soon: screenshot after publishing.)
+[![Screenshot Home](./assets/img/screenshot-home.png)](./assets/img/screenshot-home.png)
 
 🔗 **Live Demo**  
 (Coming soon: GitHub Pages link.)
