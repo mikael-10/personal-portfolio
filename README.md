@@ -23,7 +23,7 @@ The site is fully responsive and built with a modern, clean design.
 *A preview of the home page of my personal portfolio website.*
 
 🔗 **Live Demo**  
-(Coming soon: GitHub Pages link.)
+[View Website](https://mikael-10.github.io/personal-portfolio/)
 
 📂 **Project Structure**  
 - `index.html` → Main page  
