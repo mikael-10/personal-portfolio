@@ -1,62 +1,60 @@
-# Green Mobility and CO₂ Impact in Italy
+# 📊 Green Mobility and CO₂ Impact in Italy
 
-This project explores the environmental impact of road transportation in Italy, focusing on sustainable mobility trends such as electric vehicle adoption, public transport usage, and CO₂ emissions reduction. It is based on official datasets from ISTAT, ENEA, and the Ministry for Ecological Transition.
+🚧 **Work in Progress**
 
-📄 **Report**: [View PDF](https://mikael-10.github.io/green-mobility/docs/green-mobility.pdf)  
-🔗 **Code Repository**: [GitHub Repository](https://github.com/mikael-10/green-mobility)
-
----
-
-## 📊 Project Overview
-
-- **Scope**: Mobility sustainability analysis across Italian regions  
-- **Data Source**: Questionnaires + national statistics  
-- **Methodology**:  
-  - Descriptive statistics (frequency, mean, variance)  
-  - Graphs (bar charts, pie charts, correlation plots)  
-  - Multivariate analysis (gender vs. transport mode)
+This project explores the environmental impact of road transportation in Italy using real-world datasets and surveys.  
+It includes descriptive statistics, regional comparisons, and multivariate analysis to understand sustainable transport trends.
 
 ---
 
-## 🧠 Key Insights
+## 📝 Description
 
-- Majority of respondents use **private cars** (60%)
-- Strong interest in **green mobility** (71%)
-- Significant support for **bicycle use** and public transport
-- Gender correlation: **females more likely** to use sustainable transport
+This project analyzes:
 
----
+- CO₂ emissions by region  
+- Public and electric transport adoption  
+- Gender and age group preferences  
+- Perceptions and willingness to adopt green mobility
 
-## 🛠 Technologies Used
-
-- **Excel** – Data cleaning & analysis  
-- **Data Visualization** – Charts and graphs (bar, pie, correlation)  
-- **Statistical Analysis** – Aggregates, variance, and cross-tabulations  
+The data was collected through surveys and enriched with datasets from ISTAT, ENEA, and the Ministry for Ecological Transition.
 
 ---
 
-## 🔍 Future Improvements
+## 🧰 Technologies Used
 
-To enhance reproducibility and automation, a Python/SQL-based simulation is planned with:
-
-- `pandas` for data analysis  
-- `matplotlib` / `seaborn` for charts  
-- `SQLite` or `PostgreSQL` for structured queries  
-- Possible Jupyter Notebook version of the full study
+- Excel (analysis + charts)
+- Statistical analysis
+- Data visualization
+- Research design
 
 ---
 
-## 📁 Files
+## 🖼 Screenshot
 
-- `green-mobility.pdf`: Full report (in `/docs/`)
-- `README.md`: Current file
-- `index.html`: Project landing page
-- `portfolio-3-col.html`: Detailed portfolio card
+![Green Mobility Preview](https://mikael-10.github.io/green-mobility/assets/img/projects/project3-preview.webp)  
+*A visual overview of the analytical dashboard and data charts from the project report.*
+
+---
+
+## 🔗 Project Access
+
+- 📄 [**View PDF Report**](https://mikael-10.github.io/green-mobility/docs/green-mobility.pdf)  
+- 🛠 [**View Code on GitHub**](https://github.com/mikael-10/green-mobility)
+
+---
+
+## 📂 Project Structure
+
+- `index.html` – Landing page  
+- `docs/` – Contains the PDF report  
+- `assets/img/` – Contains preview image  
+- `README.md` – This documentation
 
 ---
 
 ## 📬 Contact
 
-Created by **Mikael Nganou**  
-📫 [LinkedIn](https://www.linkedin.com/in/mikael-nganou)  
-🌍 Portfolio: [mikael-10.github.io](https://mikael-10.github.io/)
+[🔗 LinkedIn](https://www.linkedin.com/in/mikael-mbiada-nganou)  
+📧 [Email](mailto:mbiadamikael@email.com)
+
+---
