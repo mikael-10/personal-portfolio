@@ -18,7 +18,7 @@ The site is fully responsive and built with a modern, clean design.
 - JavaScript (basic interactions)
 
 
-> ## 📷 Screenshot
+📷 **Screenshot** 
 ![Portfolio Screenshot](https://raw.githubusercontent.com/mikael-10/personal-portfolio/main/assets/img/projects/project1.webp)
 *A preview of the home page of my personal portfolio website.*
 
