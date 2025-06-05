@@ -17,14 +17,8 @@ The site is fully responsive and built with a modern, clean design.
 - Bootstrap 5  
 - JavaScript (basic interactions)
 
-📷 **Screenshot**
-> _Placeholder image until updated screenshots are added_
-[![Screenshot Home](https://raw.githubusercontent.com/mikael-10/personal-portfolio/main/assets/img/screenshot-home.png)](https://raw.githubusercontent.com/mikael-10/personal-portfolio/main/assets/img/screenshot-home.png)
-> 
+
 > ## 📷 Screenshot
-
-> _Updated project screenshot._
-
 ![Portfolio Screenshot](https://raw.githubusercontent.com/mikael-10/personal-portfolio/main/assets/img/projects/project1.webp)
 *A preview of the home page of my personal portfolio website.*
 
