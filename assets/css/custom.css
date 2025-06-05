@@ -106,3 +106,48 @@ footer {
         margin: 5px 0;
     }
 }
+
+.card-img-top {
+  height: 220px;       /* altezza uniforme */
+  object-fit: cover;   /* mantiene proporzioni */
+}
+
+.card-body {
+  height: 290px;        /* stessa altezza per ogni descrizione */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-img-top {
+  height: 220px;
+  object-fit: cover;
+}
+
+.card-body {
+  height: 290px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-img-top {
+  height: 220px;         /* altezza coerente per tutte le immagini */
+  object-fit: cover;     /* ridimensiona l'immagine senza deformarla */
+  width: 100%;           /* assicura che occupi tutta la card */
+}
+
+.card-body {
+  height: 290px;         /* blocco descrizione uniforme */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* 🔧 Regole per evitare taglio immagini in portfolio */
+.portfolio-full .card-img-top {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+}
