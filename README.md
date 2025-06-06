@@ -42,7 +42,7 @@ It includes both **survey-based insights** and **real-world dataset analysis**, 
 - 📘 **PDF Final Report:**  
   [View Report (PDF)](https://mikael-10.github.io/green-mobility/docs/green-mobility.pdf)
 
-- 🌐 **Live Project Page:**  
+- 🌐 **Live Project Pages:**  
   [Green Mobility on GitHub Pages](https://mikael-10.github.io/green-mobility/)
 
 - 🛠 **Source Code:**  
