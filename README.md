@@ -1,70 +1,51 @@
-# 🚗 Green Mobility - Data Analysis Project
+# Personal Portfolio – Mikael Mbiada Nganou
 
-**Exploratory analysis of CO₂ emissions, electric mobility, and sustainable transport in Italy**
-
----
-
-## 📌 Description
-
-This project explores the current state of sustainable mobility in Italy, with a focus on:
-
-- CO₂ emissions from road transport
-- Adoption of electric and hybrid vehicles
-- Use of public transport and shared mobility
-- Citizen interest in green alternatives
-
-It includes both **survey-based insights** and **real-world dataset analysis**, combining academic methodology with public policy relevance.
+🚧 **Work in Progress**  
+This personal portfolio is currently under development.  
+New updates, projects, and improvements will be added soon.  
+Thank you for visiting!
 
 ---
 
-## 🧰 Technologies Used
-
-- Excel (data cleaning and analysis)
-- Statistical formulas and graphs
-- Markdown for report publishing  
-- Git & GitHub for version control and deployment
-
-> 🧠 *Future update planned with Python (pandas, matplotlib) and SQL (data extraction)*
+🧾 **Description**  
+This is my personal portfolio website showcasing my work in web development and data analytics.  
+The site is fully responsive and built with a modern, clean design.  
+It includes sections like Home, About, Portfolio, and Contact, and links to GitHub and live demos.
 
 ---
 
-## 📊 Dataset & Sources
-
-- ENEA - Italian National Agency for New Technologies
-- ISTAT - Italian National Institute of Statistics
-- Ministry for Ecological Transition  
-- Survey distributed via social platforms
-
----
-
-## 📄 Deliverables
-
-- 📘 **PDF Final Report:**  
-  [View Report (PDF)](https://mikael-10.github.io/green-mobility/docs/green-mobility.pdf)
-
-- 🌐 **Live Project Pages:**  
-  [Green Mobility on GitHub Pages](https://mikael-10.github.io/green-mobility/)
-
-- 🛠 **Source Code:**  
-  [GitHub Repository](https://github.com/mikael-10/green-mobility)
+🔧 **Technologies Used**  
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- JavaScript (basic DOM interactions)
 
 ---
 
-## 🖼 Screenshot
-
-> _Placeholder image until updated screenshots are added_
-
-![Green Mobility Dashboard](https://raw.githubusercontent.com/mikael-10/green-mobility/main/assets/img/projects/project3.webp)
+📷 **Screenshot**  
+![Portfolio Screenshot](https://raw.githubusercontent.com/mikael-10/personal-portfolio/main/assets/img/projects/project1.webp)  
+*A preview of the homepage with featured projects and responsive layout.*
 
 ---
 
-## 📬 Contact
-
-**Mikael Mbiada Nganou**  
-[LinkedIn](https://www.linkedin.com/in/mikaelmbiada-nganou/)  
-[Portfolio Website](https://mikael-10.github.io/personal-portfolio)  
-[Email](mailto:mbiadamikael@email.com)
+🔗 **Live Demo**  
+👉 [Visit the site](https://mikael-10.github.io/personal-portfolio/)
 
 ---
 
-_Repository created and maintained as part of my Data Analysis & Web Development journey._
+📂 **Project Structure**  
+- `index.html` → Main page  
+- `assets/css/` → Stylesheets  
+- `assets/img/` → Images and screenshots  
+- `assets/js/` → JavaScript scripts
+
+---
+
+📩 **Contact**  
+- [💼 LinkedIn](https://linkedin.com/in/mikaelmbiada-nganou)  
+- [📧 Email](mailto:mbiadamikael@email.com)  
+- [🌍 Portfolio Website](https://mikael-10.github.io/personal-portfolio/)
+
+---
+
+> *Created by Mikael Mbiada Nganou – Web Developer & Aspiring Data Scientist.*
