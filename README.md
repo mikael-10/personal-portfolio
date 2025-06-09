@@ -33,6 +33,11 @@ It includes sections like Home, About, Portfolio, and Contact, and links to GitH
 
 ---
 
+🛠 **Source Code:**  
+  [GitHub Repository](https://github.com/mikael-10/personal-portfolio)
+
+---
+
 📂 **Project Structure**  
 - `index.html` → Main page  
 - `assets/css/` → Stylesheets  
