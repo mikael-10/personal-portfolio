@@ -127,4 +127,20 @@ footer {
   max-height: none;
   object-fit: contain
   } 
+
+
+
+  .btn-pdf {
+  background-color: #fc5c35;
+  border: none;
+  color: white;
+  transition: background-color 0.3s ease-in-out;
+  padding: 0.5rem 1rem;
+}
+
+.btn-pdf:hover {
+  background-color: #e64e2f;
+  color: white;
+  text-decoration: none;
+}
   
